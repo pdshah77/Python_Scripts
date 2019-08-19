@@ -16,3 +16,5 @@ I have used Python 3.7 to code and took reference of GreeksForGreeks to understa
 **FactorialofNumber.py** : Program to Find Factorial of a Given Number
 
 **FirstRepeatingChar.py** : Program to Find First Repeating Character in a String
+
+**Display_Character_Count.py** : Program to Display Count of Distinct Characters in a Given String
