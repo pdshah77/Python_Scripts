@@ -1,5 +1,6 @@
 # Python_Scripts
-This Repository is created to add Programs asked in Interviews. 
+
+*This Repository is created to add Programs asked in Interviews.*
 
 I usually try to code random programs which I came across on Internet in form of Interview Question or some random programs I feel like doing it.
 
