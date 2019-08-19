@@ -14,3 +14,5 @@ I have used Python 3.7 to code and took reference of GreeksForGreeks to understa
 **addFirstLastElement.py** : Program to Find Sum of First and Last Element for a given List and print on new line till only Single element remains
 
 **FactorialofNumber.py** : Program to Find Factorial of a Given Number
+
+**FirstRepeatingChar.py** : Program to Find First Repeating Character in a String
