@@ -11,4 +11,6 @@ I have used Python 3.7 to code and took reference of GreeksForGreeks to understa
 
 **Palindrom_Number.py** : Given Number is Palindrom if Number or String Reads same from Back Side also. Most common Interview Question
 
-**addFirstLastElement.py** : I was Asked to add First and Last Element of a String and print it in new line. 
+**addFirstLastElement.py** : Program to Find Sum of First and Last Element for a given List and print on new line till only Single element remains
+
+**FactorialofNumber.py** : Program to Find Factorial of a Given Number
