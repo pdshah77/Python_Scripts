@@ -23,3 +23,5 @@ I have used Python 3.7 to code and took reference of GreeksForGreeks to understa
 **LargestInFromList.py** : Program to Display Largest Integer Value from elements of given list
 
 **ThreeDigitAPGP.py** : Program to Find Three Digits Number whoes Digits transversing from Left to Right creates a Arithmetic Progression or Geometric Progression.
+
+**CommonDenominator.py** : Program to Find Common Denominator from Given List
