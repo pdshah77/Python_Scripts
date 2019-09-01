@@ -30,6 +30,11 @@ I have used Python 3.7 to code and took reference of GreeksForGreeks to understa
 
 **Fibonacci_term.py** : Program to Print Fibonacci Value at Given User Input 
 
+**ArmStrongNumber.py** : Program to Check if Given Number is ArmStrong Number or not
+
+**Vowels_Count.py** : Program to count vowels for a given string
+
 **PreFixMapSum.py** : Program to Implement a PrefixMapSum class: which takes two method to insert and display sum of prefix in Map 
 
 **FibboPrimeMixSeries.py** : Program to Find Nth Term for Combined Prime & Fibbo Series 
+
