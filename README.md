@@ -29,3 +29,7 @@ I have used Python 3.7 to code and took reference of GreeksForGreeks to understa
 **Fibbonaci_series.py** : Program to Print Fibonnaci Series Upto Given User Input Number
 
 **Fibonacci_term.py** : Program to Print Fibonacci Value at Given User Input 
+
+**ArmStrongNumber.py** : Program to Check if Given Number is ArmStrong Number or not
+
+**Vowels_Count.py** : Program to count vowels for a given string
