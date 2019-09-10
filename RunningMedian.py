@@ -39,5 +39,5 @@ def even_median(list,count):
 #running_median([2, 1, 4, 7, 2, 0, 5])
 # 2 1.5 2 3.0 2 2.0 2
 
-running_median([2,2,3,4])
+running_median([5,15,1,3])
 # 2 2.0 2 2.5
