@@ -42,3 +42,7 @@ I have used Python 3.7 to code and took reference of GreeksForGreeks to understa
 
 **RunningMedian.py** : Program to Find Median for each new element
 
+**RoomScheduling.py** : Program to find number of rooms required from given start and end time tuple arrays
+
+**ReverseWords.py** : Program to Reverse the Words of a String while preseving whitespaces
+
