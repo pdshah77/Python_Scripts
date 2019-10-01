@@ -28,9 +28,9 @@ I have used Python 3.7 to code and took reference of [GreeksForGreeks](https://w
 
 **Fibonacci_term.py** : Program to Print Fibonacci Value at Given User Input 
 
-**FirstRepeatingChar.py** : Program to Find First Repeating Character in a String
-
 **FindSingle.py** : Program to Find Single Digit which is occuring only One Time
+
+**FirstRepeatingChar.py** : Program to Find First Repeating Character in a String
 
 **LargestInFromList.py** : Program to Display Largest Integer Value from elements of given list
 
