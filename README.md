@@ -30,6 +30,8 @@ I have used Python 3.7 to code and took reference of [GreeksForGreeks](https://w
 
 **FirstRepeatingChar.py** : Program to Find First Repeating Character in a String
 
+**FindSingle.py** : Program to Find Single Digit which is occuring only One Time
+
 **LargestInFromList.py** : Program to Display Largest Integer Value from elements of given list
 
 **Palindrom_Number.py** : Given Number is Palindrom if Number or String Reads same from Back Side also. Most common Interview Question
