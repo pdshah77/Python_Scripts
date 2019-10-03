@@ -46,6 +46,8 @@ I have used Python 3.7 to code and took reference of [GreeksForGreeks](https://w
 
 **RunningMedian.py** : Program to Find Median for each new element
 
+**StringCompression.py** : Program to compress given an array of characters with repeats
+
 **ThreeDigitAPGP.py** : Program to Find Three Digits Number whoes Digits transversing from Left to Right creates a Arithmetic Progression or Geometric Progression.
 
 **Vowels_Count.py** : Program to count vowels for a given string
