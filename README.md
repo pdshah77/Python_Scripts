@@ -50,6 +50,8 @@ I have used Python 3.7 to code and took reference of [GreeksForGreeks](https://w
 
 **ThreeDigitAPGP.py** : Program to Find Three Digits Number whoes Digits transversing from Left to Right creates a Arithmetic Progression or Geometric Progression.
 
+**ValueEqualIndex.py** : Program to find a fixed point in an array whose value is equal to its index.
+
 **Vowels_Count.py** : Program to count vowels for a given string
 
 **addFirstLastElement.py** : Program to Find Sum of First and Last Element for a given List and print on new line till only Single element remains
