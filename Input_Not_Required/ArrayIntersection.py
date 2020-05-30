@@ -28,3 +28,4 @@ class Solution:
 
 print(Solution().intersection([1,2,2,1], [2,2]))
 # [9, 4]
+# Test Push
